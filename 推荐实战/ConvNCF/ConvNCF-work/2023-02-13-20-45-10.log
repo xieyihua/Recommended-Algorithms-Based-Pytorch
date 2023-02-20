@@ -1,0 +1,4 @@
+Epoch:0,	Train loss:1314.3584,	Time:7.0699
+HR@10:0.0764,	NDCG@10:0.0372
+Epoch:1,	Train loss:1167.9148,	Time:7.0252
+HR@10:0.0732,	NDCG@10:0.0366

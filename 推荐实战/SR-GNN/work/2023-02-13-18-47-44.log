@@ -1,0 +1,30 @@
+epoch: 0
+Best Result:
+		Recall@20:	53.5354	MMR@20:	25.4775	Epoch:	0,	0
+epoch: 1
+Best Result:
+		Recall@20:	66.6667	MMR@20:	29.5935	Epoch:	1,	1
+epoch: 2
+Best Result:
+		Recall@20:	67.6768	MMR@20:	33.3071	Epoch:	2,	2
+epoch: 3
+Best Result:
+		Recall@20:	70.7071	MMR@20:	33.8563	Epoch:	3,	3
+epoch: 4
+Best Result:
+		Recall@20:	74.7475	MMR@20:	34.6469	Epoch:	4,	4
+epoch: 5
+Best Result:
+		Recall@20:	74.7475	MMR@20:	34.6469	Epoch:	4,	4
+epoch: 6
+Best Result:
+		Recall@20:	74.7475	MMR@20:	34.6469	Epoch:	4,	4
+epoch: 7
+Best Result:
+		Recall@20:	74.7475	MMR@20:	34.6771	Epoch:	4,	7
+epoch: 8
+Best Result:
+		Recall@20:	74.7475	MMR@20:	34.6771	Epoch:	4,	8
+epoch: 9
+Best Result:
+		Recall@20:	74.7475	MMR@20:	34.6771	Epoch:	4,	9

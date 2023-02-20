@@ -1,0 +1,4 @@
+The time elapse of epoch 000 is: 00: 00: 22
+HR: 0.268	NDCG: 0.151	Loss: 0.603
+The time elapse of epoch 001 is: 00: 00: 23
+HR: 0.277	NDCG: 0.152	Loss: 0.411

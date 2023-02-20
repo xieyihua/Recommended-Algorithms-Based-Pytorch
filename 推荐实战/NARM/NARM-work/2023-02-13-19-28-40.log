@@ -1,0 +1,15 @@
+[TRAIN] epoch 1/5	loss: 7.8149	(80.98 im/s)
+Epoch 0 validation: Recall@20: 0.0261,	MRR@20: 0.0049 
+
+[TRAIN] epoch 2/5	loss: 7.2666	(76.15 im/s)
+Epoch 1 validation: Recall@20: 0.0410,	MRR@20: 0.0083 
+
+[TRAIN] epoch 3/5	loss: 7.1396	(78.16 im/s)
+Epoch 2 validation: Recall@20: 0.0547,	MRR@20: 0.0124 
+
+[TRAIN] epoch 4/5	loss: 7.0034	(88.03 im/s)
+Epoch 3 validation: Recall@20: 0.0695,	MRR@20: 0.0168 
+
+[TRAIN] epoch 5/5	loss: 6.8575	(93.05 im/s)
+Epoch 4 validation: Recall@20: 0.0820,	MRR@20: 0.0200 
+
